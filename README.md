@@ -191,5 +191,5 @@ This project is licensed under the Apache License 2.0. See the LICENSE file for 
 ## 12. Acknowledgments & Citations
 
 This work builds upon the foundational research of the academic community in the field of steganalysis. We specifically acknowledge and cite the following works:
-*   **CALPA-NET:** Our detection model, pruning implementation, and neural network compression framework are adapted from the [tansq/CALPA-NET](https://github.com/tansq/CALPA-NET) repository.
+*   **CALPA-NET:** Our modular detection model is adapted from the [tansq/CALPA-NET](https://github.com/tansq/CALPA-NET) repository.
 *   **SRNet & XuNet:** We acknowledge the creators of the Spatial Rich Model (SRNet) and XuNet architectures, whose research and baseline models made this platform possible.
